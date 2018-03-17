@@ -1,0 +1,9 @@
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Business.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Business.pdb
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Data.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Entities.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Data.pdb
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\bin\Debug\WebSite.Entities.pdb
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\obj\Debug\ResolveAssemblyReference.cache
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\obj\Debug\WebSite.Business.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Business\obj\Debug\WebSite.Business.pdb

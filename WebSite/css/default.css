@@ -1,0 +1,90 @@
+﻿html, body, form
+{
+	height: 100%;
+}
+body
+{
+    font-family: Tahoma, Verdana, Arial, Sans-Serif, Times New Roman;
+    padding: 0;
+    margin: 0;
+}
+#geral
+{
+	position: relative;
+	min-height: 100%;
+}
+* html #geral
+{
+	height: 100%;
+}
+#cabecalho
+{
+    background-color: #f09942;
+    height: 150px;
+    line-height: 150px;
+}
+#cabecalho h1
+{
+    padding: 0;
+    margin: 0;
+}
+#cabecalho h1#logo
+{
+    text-transform: uppercase;
+}
+#menu ul
+{
+    overflow: auto;
+    background-color: #353535;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+#menu ul li
+{
+    float: left;
+}
+#menu ul li a
+{
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    padding: 5px 20px;
+    color: #fff;
+    text-decoration: none;
+}
+#menu ul li a:hover
+{
+    color: #353535;
+    background: #f09942;
+    text-decoration: underline;
+}
+#conteudo
+{
+    clear: both;
+}
+.clear
+{
+    clear: both;
+}
+#rodape
+{
+    position: absolute;
+    background-color: #f09942;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	padding: 15px 0;
+    text-align: center;
+    font-size: small;
+}
+#rodape a
+{
+    color: #000;
+    text-decoration: none;
+}
+#rodape a:hover
+{
+    color: #000;
+    text-decoration: underline;
+}

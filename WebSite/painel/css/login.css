@@ -1,0 +1,65 @@
+﻿html, body, form
+{
+	height: 100%;
+}
+body
+{
+    font-family: Tahoma, Verdana, Arial, Sans-Serif, Times New Roman;
+    padding: 0;
+    margin: 0;
+}
+#geral
+{
+	position: relative;
+	min-height: 100%;
+	background-color: #f09942;
+}
+* html #geral
+{
+	height: 100%;
+}
+fieldset
+{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    width: 300px;
+    height: 220px;
+    padding: 25px;
+    margin: -135px 0 0 -175px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    -moz-box-shadow: 0 0 15px #2c2d30;
+    -webkit-box-shadow: 0 0 15px #2c2d30;
+    -msie-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+fieldset h2
+{
+    margin: 0;
+    padding: 0;
+}
+fieldset #content_login
+{
+    margin: 20px 0;
+}
+fieldset label
+{
+    display: block;
+    padding: 10px 0 0 0;
+}
+fieldset input[type=text], fieldset input[type=password]
+{
+    width: 100%;
+}
+fieldset input[type=button], fieldset input[type=submit]
+{
+    background-color: #f09942;
+    padding: 10px;
+    border: 1px solid #f09942;
+    -msie-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    font-weight: bold;
+}

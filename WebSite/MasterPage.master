@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<%-- Aqui ficou a referencia ao MenuControl.ascx --%>
+<%@ Register src="MenuControl.ascx" tagname="MenuControl" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <style type="text/css">
+        @import url('css/default.css');
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="geral">
+            <div id="cabecalho">
+                <h1 id="logo">Projeto WebSite .NET</h1>
+            </div>
+            <div id="menu">
+                <%-- Aqui ficou o nosso MenuContro.ascx --%>
+                <uc1:MenuControl ID="MenuControl1" runat="server" />
+            </div>
+            <div id="conteudo">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="rodape">
+                &copy; 2012. Projeto WebSite .NET by <a href="http://csharpbrasil.com.br" target="_blank">C# Brasil</a>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

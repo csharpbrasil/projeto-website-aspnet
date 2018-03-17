@@ -1,0 +1,5 @@
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Entities\bin\Debug\WebSite.Entities.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Entities\bin\Debug\WebSite.Entities.pdb
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Entities\obj\Debug\ResolveAssemblyReference.cache
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Entities\obj\Debug\WebSite.Entities.dll
+F:\Estudos\ASP.NET\ProjetoWebSite\WebSite.Entities\obj\Debug\WebSite.Entities.pdb

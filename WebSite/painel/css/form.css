@@ -1,0 +1,18 @@
+﻿div.form
+{
+    margin: 0 auto;
+    padding: 20px;
+    width: 600px;
+}
+div.form .label
+{
+    display: block;
+}
+div.form input[type=text], div.form input[type=password]
+{
+    width: 100%;
+}
+div.form .command
+{
+    text-align: right;
+}
